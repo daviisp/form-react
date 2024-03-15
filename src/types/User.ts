@@ -1,5 +1,5 @@
 export type User = {
-    name?: string,
-    email?: string,
-    agree?: boolean
-}
+  name?: string;
+  email?: string;
+  agree?: boolean;
+};
